@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "NPI", ".", "{9B039A66-17AD-490A-B1C2-CFF6574B8299}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/NPI"
+		Debug.AspNetCompiler.PhysicalPath = "E:\Priya\Priya\NPI\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\NPI\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/NPI"
+		Release.AspNetCompiler.PhysicalPath = "E:\Priya\Priya\NPI\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\NPI\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "4478"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B039A66-17AD-490A-B1C2-CFF6574B8299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B039A66-17AD-490A-B1C2-CFF6574B8299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
